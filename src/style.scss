@@ -1,0 +1,15 @@
+
+$border: 1px solid black;
+
+
+h2, h3 {
+  color: green;
+}
+p {
+  color: red;
+}
+
+
+h2, h3, p {
+  border: $border;
+}
